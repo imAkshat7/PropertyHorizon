@@ -1,0 +1,24 @@
+0 verbose cli C:\Nodejs\node.exe C:\Nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.1
+2 info using node@v22.3.0
+3 silly config load:file:C:\Nodejs\node_modules\npm\npmrc
+4 silly config load:file:B:\MERN\PropertyHorizon\.npmrc
+5 silly config load:file:C:\Users\Akki\.npmrc
+6 silly config load:file:C:\Users\Akki\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm run lint ./.eslintcache
+8 verbose argv "run" "lint" "--cache" "--cache-location" "./.eslintcache"
+9 verbose logfile logs-max:10 dir:B:\MERN\PropertyHorizon\--cache-location\_logs\2024-08-24T06_08_23_343Z-
+10 verbose logfile B:\MERN\PropertyHorizon\--cache-location\_logs\2024-08-24T06_08_23_343Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/npm 361ms
+13 verbose cwd B:\MERN\PropertyHorizon
+14 verbose os Windows_NT 10.0.22631
+15 verbose node v22.3.0
+16 verbose npm  v10.8.1
+17 notice
+17 notice New [36mpatch[39m version of npm available! [36m10.8.1[39m -> [34m10.8.2[39m
+17 notice Changelog: [34mhttps://github.com/npm/cli/releases/tag/v10.8.2[39m
+17 notice To update run: [4mnpm install -g npm@10.8.2[24m
+17 notice  { force: true, [Symbol(proc-log.meta)]: true }
+18 verbose exit 1
+19 verbose code 1
