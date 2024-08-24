@@ -4,7 +4,7 @@
 import { useState } from 'react';
 import { Flex, Box, Text, Icon } from '@chakra-ui/react';
 import { BsFilter } from 'react-icons/bs';
-import SearchFilters from '../../components/SearchFilter'; // Ensure the correct path
+import SearchFilters from '../../Components/SearchFilter'; // Ensure the correct path
 import Property from "../../Components/property"; // Ensure the correct path
 
 export default function Search({ properties, purpose }) {
